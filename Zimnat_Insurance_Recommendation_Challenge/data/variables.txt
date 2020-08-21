@@ -1,0 +1,29 @@
+ID - identifiant utilisateur unique
+join_date - date à laquelle le zimnat rejoint
+sexe - sexe du client
+marital_status - statut de mariage du client
+birth_year - année de naissance du client
+branch_code - branche où le client s'est inscrit
+occupation_code - un code qui décrit ce que fait le client
+occupation_category_code - la catégorie à laquelle appartient le travail du client
+P5DA - code produit
+RIBP - code produit
+8NN1 - code produit
+7POT - code produit
+66FJ - code produit
+GYSR - code produit
+SOP4 - code produit
+RVSZ - code produit
+PYUQ - code produit
+LJR9 - code produit
+N2MW - code produit
+AHXO - code produit
+BSTQ - code produit
+FM3X - code produit
+K6QO - code produit
+QBOL - code produit
+JWFN - code produit
+JZ9D - code produit
+J9JW - code produit
+GHYX - code produit
+ECY3 - code produit
